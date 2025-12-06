@@ -9,7 +9,8 @@ Retrieve after hours failed login attempts
 We had an incident that happened after “18:00”, and these must be investigated.
  
 The following code shows the queries to filter for failed login attempts that happened after “18:00”.
- 
+
+
 ![apply-filters-sql-Evidence 1](../images/my-image.png)
 
  
@@ -23,6 +24,7 @@ Retrieve login attempts on specific dates
 On the date 2022-05-09 an event occurred and our organization requested that any activity occurring on that day or the day before must be investigated.
  
 The following image displays the code for the SQL query that filters login attempts on those dates.
+
 
 ![apply-filters-sql-Evidence 2](../images/my-image.png)
 
@@ -38,7 +40,8 @@ Retrieve login attempts outside of Mexico
 During our research we noticed an issue that should be investigated, concerning the login attempts, specifically the ones that occurs outside of Mexico.
  
 Please review the following image that states the SQL code to filter login attempts that happened outside of Mexico.
- 
+
+ 
 ![apply-filters-sql-Evidence 3](../images/my-image.png)
  
 The top part of the image displays the query that shows all login attempts that happened in countries outside of Mexico.
@@ -52,6 +55,7 @@ Retrieve employees in Marketing
 Today, we’ll be updating the computers of certain employees from the Marketing Department and I need to get the information of the employees that do require this update.
  
 This image displays the query to filter the employees in the East Building Marketing Department.
+
 
 ![apply-filters-sql-Evidence 4](../images/my-image.png)
 
@@ -67,7 +71,8 @@ Retrieve employees in Finance or Sales
 The organization has requested that the machines in the Finance and Sales Department must be updated. In order to fulfil this task, I must filter the employees that belong to the Sales and Finance department only as their update will be different.
  
 Please review the following image that displays the SQL query that filters the machines of the employees from the Sales and Finance Department, which require this new update.
- 
+
+
 ![apply-filters-sql-Evidence 5](../images/my-image.png)
  
 The top section of the image is the query that returns the Sales and Finance employees that do require the new update.
@@ -82,7 +87,8 @@ Retrieve all employees not in IT
 The organization has requested another security update on employees outside of the Information Technology Department, and in order to fulfill this task I must filter these employees.
  
 Please review the image below displaying the SQL query to filter the employee machines outside of the IT Department.
- 
+
+
 ![apply-filters-sql-Evidence 6](../images/my-image.png)
  
 The first part of the image displays my query that returns the employees outside of the IT Department.
