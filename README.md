@@ -7,7 +7,7 @@ This space documents my journey into SOC analysis, incident response, security m
 
 ## 🌟 Cybersecurity Professional Statement
 
-I’m drawn to cybersecurity because, for me, it’s about protecting people, and not just data. Every password, network, or security system represents someone’s trust in me, and I want to be part of the power that keeps that trust steady. My background I case management and federal systems taught me how to handle sensitive information responsibly, follow strict protocols, and assess risk under pressure. 
+I’m drawn to cybersecurity because, for me, it’s about protecting people, and not just data. Every password, network, or security system represents someone’s trust in me, and I want to be part of the power that keeps that trust steady. My background in case management and federal systems taught me how to handle sensitive information responsibly, follow strict protocols, and assess risk under pressure. 
 
 As I continue my cybersecurity training, I’m focusing on the foundations needed for real-world SOC work. I’m developing skills in SIEM monitoring, alert triage, incident response, Linux navigation, Python basics, and cloud fundamentals. I’m also building hands-on projects such as log parsing exercises, alert tuning scenarios, and IR playbook practice to strengthen my understanding of how analysis identify and respond to threats.
 
