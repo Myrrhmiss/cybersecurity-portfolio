@@ -58,7 +58,8 @@ Even though I’m entering the field at an early stage, my motivation is clear: 
 - Analyze authentication logs  
 - Detect brute-force attempts  
 - Investigate suspicious processes  
-- Document incidents using IR templates  
+- Document incidents using IR templates
+- Inset images in Markdown, using ![Short description of image](../images/my-image.png) 
 
 ### **🔹 Phase 4: Resume & Portfolio Prep**
 - Add SOC labs to this GitHub  
