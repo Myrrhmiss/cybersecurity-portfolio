@@ -1,8 +1,8 @@
-Portfolio Activity-Project: Controls and Compliance check list
+## Activity: Controls and Compliance check list
  
-Does the Botium Toys currently have this control in place? Select “yes” or “no” or "Both".
+# Does the Botium Toys currently have this control in place? Select “yes” or “no” or "Both".
  
-Controls Assessment Checklist:
+# Controls Assessment Checklist:
  
 No 
 Least Privilege
@@ -60,10 +60,9 @@ Both
 Fire detection and prevention
 The physical location of the store named Botium Toy’s has its fire detection and prevention system active and running.
  
-Compliance checklist:
+# Compliance checklist:
  
-Does Botium Toys currently adhere to this compliance best practice? “Yes” or “No”?
- 
+# Does Botium Toys currently adhere to this compliance best practice? “Yes” or “No”?
  
 No
 Access has been granted only to authorized users, with access to the customer’s credit card information.
@@ -81,7 +80,7 @@ Both
 Adopt secure password
 The password policies are nominal. There are no password management system in place at the moment.
  
-General Data Protection Regulation
+# General Data Protection Regulation
  
 No
 Customer’s data in E.U. is kept secured.
@@ -99,7 +98,7 @@ Both
 In order to document and maintain the data of the company the privacy policies, procedures and processes are enforced.
 The privacy policies are enforced in the IT department and other company employees.
  
-System and Organizations Controls
+# System and Organizations Controls
  
 No
 The access policies for the user have been established.
