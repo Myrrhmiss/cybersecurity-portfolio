@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity Portfolio – Muraina Rivera
+# 🔐 Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio.  
 This space documents my journey into SOC analysis, incident response, security monitoring, and hands-on defensive projects.
