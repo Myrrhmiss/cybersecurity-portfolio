@@ -1,10 +1,10 @@
 ## File Permissions in Linux
 
-#Description of the Project
+# Description of the Project
 
 I work at an organization that needs to update the file permissions for specific files and directories. These are found within the projects directory. The permissions do not reflect the level of authorization. As an analyst is my job to verify and update these permissions to secure their system. In order to fulfill my task, I did the following:
 
-#Check file and directory details
+# Check file and directory details
 
 Please review the following codes used to determine the existing permissions for a specific directory.
 
