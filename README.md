@@ -73,6 +73,7 @@ Even though I’m entering the field at an early stage, my motivation is clear: 
 **Email:** river.del.muraina@gmail.com  
 **Location:** Missouri 
 **GitHub:** 
+**Linkedin:** www.linkedin.com/in/muraina-rivera-383735236
 
 ---
 
