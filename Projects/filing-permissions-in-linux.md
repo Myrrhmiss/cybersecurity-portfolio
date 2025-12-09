@@ -41,6 +41,8 @@ This is the code that shows how I used the Linux commands to fulfill this task:
 
 ![File Permissions in Linus Image 2 Pt1](../images/Permissions-in-Linux-Evidence-2.png)
 
+![File Permissions in Linus Image 2b](../images/Permissions-in-Linux-Evidence-2b.png)
+
 The commands I entered are displayed on the first two lines, the output display the output of the second command entered. The “chmod” command changes the permissions on files, and directories. The first task indicates the permissions that should be changed, and the second states the specific file or directory. Here the “write” permissions have been removed from “other” for the “project_k.txt file”. Once this step was completed, I used “ls -la” to review the updated information.
 
 # Change File Permissions on a Hidden file
