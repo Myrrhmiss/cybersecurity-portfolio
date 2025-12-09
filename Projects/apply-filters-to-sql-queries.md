@@ -10,7 +10,7 @@ We had an incident that happened after “18:00”, and these must be investigat
  
 The following code shows the queries to filter for failed login attempts that happened after “18:00”.
 
-![apply-filters-sql-Evidence 1](../images/my-image.png)
+![Apply filters sql-Evidence 1](../images/apply-filters-sql-Evidence1.png)
 
 Please review the first part, my query, in order to filter the failed login attempts after 18:00. The second part is the output. 
 ·      I selected the data from the “log_in_attempts”
@@ -23,7 +23,7 @@ On the date 2022-05-09 an event occurred and our organization requested that any
 
 The following image displays the code for the SQL query that filters login attempts on those dates.
 
-![apply-filters-sql-Evidence 2](../images/my-image.png)
+![Apply filters sql-Evidence 2](../images/apply-filters-sql-Evidence2.png)
 
 The top part of the image is the query that returns the login attempts that happened on 2022-05-09 or 2022-05-08. The second part of the output.
 ·      I selected the data from the “log_in_attempts”
@@ -37,7 +37,7 @@ During our research we noticed an issue that should be investigated, concerning 
  
 Please review the following image that states the SQL code to filter login attempts that happened outside of Mexico.
 
-![apply-filters-sql-Evidence 3](../images/my-image.png)
+![Apply filters sql-Evidence 3](../images/apply-filters-sql-Evidence 3.png)
 
 The top part of the image displays the query that shows all login attempts that happened in countries outside of Mexico.
 ·      I selected the data from the “log_in_attempts” table.
@@ -51,7 +51,7 @@ Today, we’ll be updating the computers of certain employees from the Marketing
 
 This image displays the query to filter the employees in the East Building Marketing Department.
 
-![apply-filters-sql-Evidence 4](../images/my-image.png)
+![Apply filters sql-Evidence 4](../images/apply-filters-sql-Evidence4.png)
 
 The top section is my query that returns all employees from the East Building marketing Department. The second part is the output.
 ·      I selected the employee data from the “employees” table.
@@ -66,7 +66,7 @@ The organization has requested that the machines in the Finance and Sales Depart
 
 Please review the following image that displays the SQL query that filters the machines of the employees from the Sales and Finance Department, which require this new update.
 
-![apply-filters-sql-Evidence 5](../images/my-image.png)
+![Apply filters sql-Evidence 5](../images/apply-filters-sql-Evidence5.png)
 
 The top section of the image is the query that returns the Sales and Finance employees that do require the new update.
 ·      I selected the data from the “employees” table.
@@ -81,7 +81,7 @@ The organization has requested another security update on employees outside of t
 
 Please review the image below displaying the SQL query to filter the employee machines outside of the IT Department.
 
-![apply-filters-sql-Evidence 6](../images/my-image.png)
+![Apply filters sql-Evidence 6](../images/apply-filters-sql-Evidence6.png)
 
 The first part of the image displays my query that returns the employees outside of the IT Department.
 ·      I selected the data from the “employees” table.
