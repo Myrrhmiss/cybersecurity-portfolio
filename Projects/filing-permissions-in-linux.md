@@ -8,7 +8,7 @@ I work at an organization that needs to update the file permissions for specific
 
 Please review the following codes used to determine the existing permissions for a specific directory.
 
-![file-permissions-in-linus-Evidence 1](../images/my-image.png)
+![File Permissions in Linus Image 1](../images/Permissions-in-Linux-Evidence-1.png)
 
 The command I entered will show on the first line. The rest of the lines display the output, presenting the content of the “projects” directory. First, I used “ls -la” to display a detailed list of the file content. This command displayed hidden files, indicating one directory named “drafts”, one hidden file named “.project_x.txt” in addition to five project files. The permissions set on each file is presented as a ten character string in the first column.
 
@@ -39,9 +39,7 @@ Our agency stated that other users shouldn’t have “write” access to any fi
 
 This is the code that shows how I used the Linux commands to fulfill this task:
 
-![file-permissions-in-linus-Evidence 2 Pt1](../images/my-image.png)
-
-![file-permissions-in-linus-Evidence 2 Pt2](../images/my-image.png)
+![File Permissions in Linus Image 2 Pt1](../images/Permissions-in-Linux-Evidence-2.png)
 
 The commands I entered are displayed on the first two lines, the output display the output of the second command entered. The “chmod” command changes the permissions on files, and directories. The first task indicates the permissions that should be changed, and the second states the specific file or directory. Here the “write” permissions have been removed from “other” for the “project_k.txt file”. Once this step was completed, I used “ls -la” to review the updated information.
 
@@ -51,7 +49,7 @@ My team archived “project_x.txt” and in addition to this, they won’t want 
 
 This is the code I used to change permissions:
 
-![file-permissions-in-linus-Evidence 3](../images/my-image.png)
+![File Permissions in Linus Image 3](../images/Permissions-in-Linux-Evidence-3.png)
 
 The commands I entered are displayed on the first tow lines ad the other lines show the output of the second command. The period (.) on “.project_x.txt” clearly states is a hidden file. 
 Removed “write” permissions from the “user” with “u-w” and group with “g-w”
@@ -63,7 +61,7 @@ My agency requested that only researcher2 user to have the access needed for the
 
 This image shows the Linux commands I used in order to change directory permissions:
 
-![file-permissions-in-linus-Evidence 4](../images/my-image.png)  
+![File Permissions in Linus Image 4](../images/Permissions-in-Linux-Evidence-4.png) 
 
 The commands entered are displayed on the first two lines. The rest of the lines display the output of the second command entered With the “chmod” command I removed the “execute” permits granted to the “group”. There was no need to add the execute permission for user researcher2 as he already had it.
 
