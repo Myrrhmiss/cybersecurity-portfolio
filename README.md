@@ -70,11 +70,12 @@ Even though I’m entering the field at an early stage, my motivation is clear: 
 
 ## 📬 Contact
 
-**Email:** river.del.muraina@gmail.com  
-**Location:** Missouri 
+**Email:** river.del.muraina@gmail.com
+
+**Location:** Missouri
+
 **Linkedin:** www.linkedin.com/in/muraina-rivera-383735236
+
 **GitHub:**
 
 ---
-
-Made with 💙, resilience, and a desire to protect people—not just systems.
