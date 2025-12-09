@@ -76,6 +76,6 @@ Even though I’m entering the field at an early stage, my motivation is clear: 
 
 **Linkedin:** www.linkedin.com/in/muraina-rivera-383735236
 
-**GitHub:**
+**GitHub:** https://github.com/Myrrhmiss
 
 ---
