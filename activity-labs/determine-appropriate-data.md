@@ -6,6 +6,8 @@ Incident summary: A sales manager shared access to a folder of internal-only doc
  
 During a video call with a business partner, a member of the sales team forgot the warning from their manager. The sales representative intended to share a link to the promotional materials so that the business partner could circulate the materials to their customers. However, the sales representative accidentally shared a link to the internal folder instead. Later, the business partner posted the link on their company's social media page assuming that it was the promotional materials.
 
+## Data Leak Assessment – Evidence
+
 ![Determine Appropriate Data](../images/Determine-appropriate-Evidence1.png)
 
 
