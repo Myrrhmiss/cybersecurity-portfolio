@@ -4,7 +4,7 @@ I. Define business and security objectives
 
 Make 2-3 notes of specific business requirements that will be analyzed.
 
-●	Users can create member profiles internally or by connecting external accounts.
+●	The user can create member profiles internally or external accounts.
 
 ●	The app must process financial transactions.
 
@@ -21,8 +21,6 @@ List of technologies used by the application:
 ●	SHA-256
 
 ●	SQL
-
-APIs facilitate the exchange of data between customers, partners, and employees, so they should be prioritized. They handle a lot of sensitive data while they connect various users and systems together. However, details such as which APIs are being used should be considered before prioritizing one technology over another. So, they can be more prone to security vulnerabilities because there’s a larger attack surface.
 
 III. Decompose application
 
