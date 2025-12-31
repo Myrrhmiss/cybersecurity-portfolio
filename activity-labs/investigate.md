@@ -1,3 +1,5 @@
+# Activity: Investigate a suspicious file hash
+
 # Assessment 
  
 ## Step 1
