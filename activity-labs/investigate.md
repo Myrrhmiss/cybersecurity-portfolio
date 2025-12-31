@@ -1,8 +1,12 @@
-#Assessment 
+# Assessment 
  
-## Step 1: The Community Score and the Security vendors' analysis listed in the VirusTotal report provide insight into the file and more than fifty security vendors have flagged this file as malicious. The file has also been categorized as Flagpro malware
+## Step 1
 
-## Step 2: The image will provide an example for each field in the pyramid, your activity only has to include three IoC examples. I used the Details, Relations, and Behavior tabs, in order to find additional IoCs related to the file such as: a domain names, IP addresses, hash values, network or host artifacts, tools, and tactics, techniques, and procedures (TTPs).
+The Community Score and the Security vendors' analysis listed in the VirusTotal report provide insight into the file and more than fifty security vendors have flagged this file as malicious. The file has also been categorized as Flagpro malware.
+
+## Step 2 
+
+The images below will provide an example for each field in the pyramid, in this activity I only need to include 3 IoC examples. I used the Details, Relations, and Behavior tabs, in order to find additional IoCs related to the file such as: a domain names, IP addresses, hash values, network or host artifacts, tools, and tactics, techniques, and procedures (TTPs).
 
 •Domain names: org.misecure.com; reported as a malicious contacted domain under the Relations tab in the VirusTotal report.
 
