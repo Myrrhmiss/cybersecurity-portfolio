@@ -680,4 +680,22 @@ To display the contents of the `text` variable, pass it as an argument to the `p
 
 **What are your key takeaways from this lab?**
 
-[Double-click to enter your responses here.]
+- The with statement allows you to efficiently handle files.
+
+- The open() function allows you to import or open a file. It takes in the name of the file as the first parameter and a string that indicates the purpose of opening the file as the second parameter.
+
+- Specify "r" as the second parameter if the analyst is opening the file for reading purposes.
+
+- Specify "w" as the second parameter if the analyst is opening the file for writing purposes.
+
+- The .read() method allows to read in a file.
+
+- The .write() method allows to append or write to a file.
+
+- Use a for loop to iterate over a list.
+
+- Use an if statement to check if a given value is in a list and execute a specific action if so.
+
+- Use the .split() method to convert a string to a list.
+
+- Use Python to compare contents of a text file against elements of a list.
