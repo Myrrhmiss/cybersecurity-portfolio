@@ -15,11 +15,8 @@ Even though I’m entering the field at an early stage, my motivation is clear: 
 
 ## 🔧 Tools & Technologies I'm Learning
 
-# Foundations of Cybersecurity — Course 1 (Modules 1–4)
+# Course 1: Foundations of Cybersecurity
 
-This section documents the completion of **Course 1: Foundations of Cybersecurity**, part of a nine-course cybersecurity certificate program. The course establishes core knowledge, skills, and ethical grounding required for entry-level cybersecurity roles.
-
----
 
 ## Module 1: Core Skills & the Importance of Cybersecurity
 - Identified **core responsibilities of cybersecurity professionals**, including threat prevention, detection, and response.
@@ -53,7 +50,7 @@ This section documents the completion of **Course 1: Foundations of Cybersecurit
 - ✔ Course 1 completed (Modules 1–4)
 - ▶ Currently progressing through the cybersecurity certificate program (Module 5 → 6)
 
-# Security Domains, Risk, and Monitoring — Course 2
+# Course 2: Security Domains, Risk, and Monitoring
 
 This section documents **Course 2**, which builds on foundational cybersecurity concepts by focusing on security domains, risk management, auditing, and monitoring tools used by cybersecurity analysts.
 
@@ -90,13 +87,8 @@ This section documents **Course 2**, which builds on foundational cybersecurity 
 
 ## Progress Status
 - ✔ Course 2 completed
-- ▶ Continuing through the cybersecurity certificate program
 
-# Connect and Protect Networks and Network Security — Course 3
-
-This section documents **Course 3**, which focuses on networking fundamentals, network communication models, secure network design, privacy technologies, and common network-based attacks.
-
----
+# Course 3: Connect and Protect Networks and Network Security
 
 ## Module 1: Networking Fundamentals
 - Defined **what networks are** and their role in modern organizations.
@@ -148,55 +140,10 @@ This section documents **Course 3**, which focuses on networking fundamentals, n
 
 ## Progress Status
 - ✔ Course 3 completed
-- ▶ Continuing through the cybersecurity certificate program
 
-# Connect and Protect: Networks and Network Security — Course 3
+_____
 
-This section documents **Course 3**, which focuses on networking fundamentals, network communication models, privacy technologies, and common network-based attacks relevant to cybersecurity analysts.
-
----
-
-## Module 1: Network Fundamentals & Architecture
-- Defined **what computer networks are** and their role in modern environments.
-- Explored **network tools, components, devices, and diagrams**.
-- Studied **cloud networks**, **cloud computing**, and **software-defined networks (SDN)**.
-- Identified the **functions of common network tools** used in security and operations.
-
----
-
-## Module 2: Network Communication Models
-- Introduced **network communication concepts**.
-- Studied the **TCP/IP model** and its **four layers**.
-- Explored the **OSI model** and how it maps to network communication.
-- Analyzed **IP addressing**, network communication flow, and **network layer components**.
-
----
-
-## Module 3: Subnetting, Privacy, and Secure Connectivity
-- Learned **subnetting** and **CIDR (Classless Inter-Domain Routing)** concepts.
-- Explored **proxy servers**, **virtual networks**, and privacy considerations.
-- Studied **VPN technologies and protocols**, including **WireGuard** and **IPsec**.
-- Examined how secure tunnels protect data in transit.
-
----
-
-## Module 4: Network Attacks & Professional Collaboration
-- Reviewed an **overview of interception tactics**.
-- Identified and analyzed **common network attacks**.
-- Practiced analyzing attack behavior and impact.
-- Reflected on learning and **connected with peers** to strengthen professional collaboration.
-
----
-
-## Progress Status
-- ✔ Course 3 completed
-- ▶ Continuing through the cybersecurity certificate program
-
-# Tools of the Trade: Linux and SQL — Course 4
-
-This section documents **Course 4**, which introduces operating systems, Linux fundamentals, command-line usage, user and permission management, and foundational SQL concepts.
-
----
+# Course 4: Tools of the Trade: Linux and SQL
 
 ## Module 1: Operating Systems & User Interfaces
 - Introduced **operating systems** and their core functions.
@@ -234,56 +181,10 @@ This section documents **Course 4**, which introduces operating systems, Linux f
 
 ## Progress Status
 - ✔ Course 4 completed
-- ▶ Continuing through the cybersecurity certificate program
 
+_____
 
-# Tools of the Trade: Linux and SQL — Course 4
-
-This course introduces operating systems, Linux fundamentals, command-line usage, user management, and foundational SQL concepts.
-
----
-
-## Module 1: Operating Systems Fundamentals
-- Introduced **operating systems** and compared common OS types.
-- Examined **internal OS functions**, requests, and resource allocation.
-- Practiced **order of operations within the OS**.
-- Explored **virtualization technology**.
-- Compared **GUI vs CLI** and selected appropriate interfaces.
-- Practiced using the **command line interface**.
-
----
-
-## Module 2: Linux Shell Basics
-- Introduced the **Linux shell** and different shell types.
-- Learned **input and output redirection**.
-- Practiced examining input and output within the shell.
-
----
-
-## Module 3: Linux Permissions and User Management
-- Studied **file permissions and ownership**.
-- Learned how to **change permissions** using Linux commands.
-- Managed **authorization**, including adding and deleting users.
-- Practiced **responsible use of sudo**.
-- Added and managed users using Linux commands.
-
----
-
-## Module 4: Linux Resources & SQL Introduction
-- Explored the **Linux community and support resources**.
-- Practiced **getting help from the command line**.
-- Studied a **reference guide for SQL fundamentals**.
-
----
-
-## Progress Status
-- ✔ Course 4 completed
-
-# Assets, Threats, and Vulnerabilities — Course 5
-
-This course focuses on asset security, data protection, cryptography, identity and access management, vulnerability management, and threat modeling.
-
----
+# Course 5: Assets, Threats, and Vulnerabilities
 
 ## Module 1: Asset Security & Risk Management
 - Studied the **what, why, and how of asset security**.
@@ -347,13 +248,6 @@ This course focuses on asset security, data protection, cryptography, identity a
 
 ## Progress Status
 - ▶ Course 5 completed
-- ▶ Continuing through the cybersecurity certificate program
-
-Got you, Starlight.
-I’m with you, steady and methodical—this is exactly how a clean, professional README should grow.
-I’ll structure Course 6 the same way we’ve been doing the others: clear headers, module breakdowns, and tight bullet points that signal competence without bloating.
-
-You can copy-paste this directly into your GitHub README.
 
 ⸻
 
@@ -434,10 +328,11 @@ You can copy-paste this directly into your GitHub README.
 ⸻
 ## Progress Status
 - ▶ Course 6 completed
-- ▶ Continuing through the cybersecurity certificate program
 
 ---
-Module 1: Python and Cybersecurity Foundations
+# Course 7: Automate Cybersecurity Tasks with Python
+
+## Module 1: Python and Cybersecurity Foundations
 
 
 •	Helpful Resources and Tips
@@ -458,7 +353,7 @@ Module 1: Python and Cybersecurity Foundations
 •	More on Loops in Python
 •	Identify: Select the Correct Iterative Statement
 
-📦 Module 2: Write Effective Python Code
+## Module 2: Write Effective Python Code
 
 •	Introduction to Functions
 •	Create a Basic Function
@@ -475,7 +370,7 @@ Module 1: Python and Cybersecurity Foundations
 •	Code Readability
 •	Ensure Proper Syntax and Readability in Python
 
-📦 Module 3: Data Structures and Pattern Matching
+## Module 3: Data Structures and Pattern Matching
 
 •	String Operations
 •	String Indices and Slices
@@ -486,7 +381,7 @@ Module 1: Python and Cybersecurity Foundations
 •	Regular Expressions in Python
 •	More About Regular Expressions
 
-📦 Module 4: Python in Practice
+## Module 4: Python in Practice
 
 •	Automate Cybersecurity Tasks with Python
 •	Automating Tasks in CI/CD
@@ -503,6 +398,69 @@ Module 1: Python and Cybersecurity Foundations
 ⸻
 ## Progress Status
 - ▶ Course 7 completed
+
+____
+## Course 8: Put It to Work! Prepare for Cybersecurity Jobs
+
+### Module 1: Protect Data and Communicate Incidents
+- Helpful Resources and Tips
+- Analyze Event Logs with NotebookLM
+- Security as a Mindset
+- Data and Asset Classification
+- Detect and Protect without Neglect
+- Disaster Recovery and Business Continuity
+
+### Module 2: Escalate Incidents
+- The Importance of Escalation
+- Escalate with a Purpose
+- Prepare to Escalate through Security Recognition
+- Recognize Roles and Responsibilities during Escalation
+- Identify and Analyze Cybersecurity Incidents and Their Impact
+- From Simple Activity to Major Data Breach
+- When and How to Escalate a Security Incident
+- Escalation Timing
+
+### Module 3: Communicate Effectively to Influence Stakeholders
+- Stakeholders in Cybersecurity
+- The Purpose and Impact of Stakeholders
+- Explore Stakeholders’ Roles and Responsibilities
+- Clear and Concise Communication
+- Building Blocks of Cybersecurity Communication
+- Communicate Effectively with Stakeholders
+- Visual Storytelling in Cybersecurity
+- Create Visual Dashboards for Impactful Cybersecurity Communications
+- How to Create a Visual Dashboard
+
+### Module 4: Engage with the Cybersecurity Community
+- Helpful Cybersecurity Resources
+- Strategies for Engaging with the Cybersecurity Community
+- Activity: Explore Cybersecurity Organizations
+- Activity: Explore Cybersecurity Organizations
+- Engage with the Cybersecurity Community in a Meaningful Way
+- Connect with Other Cybersecurity Professionals
+
+### Module 5: Use AI to Optimize Workflows
+- Use Generative AI to Work Smarter and Faster
+- Boost Your Cybersecurity Skills with AI
+- Decode Complex Security Frameworks with AI
+- Use AI to Help Identify Bugs
+- Refine Code with Help from AI
+- Understand System Vulnerabilities with AI
+- Prioritize Alerts with AI
+- Activity: Use Generative AI to List Common Signs of Phishing and Malware
+- Key Takeaways from AI in Cybersecurity
+- Introducing Google AI Essentials
+- Take the Next Step with Google AI Essentials
+- Prepare for Technical Interviews
+- Recap of the Google Cybersecurity Certificate Program
+- Congratulations on Completing the Google Cybersecurity Certificate Program
+- Showcase Your Work
+- Claim Your Google Cybersecurity Certificate Badge
+- Resources for Google Cybersecurity Certificate
+
+⸻
+## Progress Status
+- ▶ Course 8 completed
 - ▶ Continuing through the cybersecurity certificate program
 
 ---
@@ -511,7 +469,7 @@ Module 1: Python and Cybersecurity Foundations
 
 **Email:** river.del.muraina@gmail.com
 
-**Location:** Missouri
+**Location:** USA
 
 **Linkedin:** www.linkedin.com/in/muraina-rivera-383735236
 
