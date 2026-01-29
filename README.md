@@ -31,6 +31,8 @@ Even though I’m entering the field at an early stage, my motivation is clear: 
 
 **Location:** USA
 
+**Coursera Profile Link:** https://www.coursera.org/user/dbd7a67c287fae91f3d3a4a8047c9a2f
+
 **Linkedin:** www.linkedin.com/in/muraina-rivera-383735236
 
 **GitHub:** https://github.com/Myrrhmiss
