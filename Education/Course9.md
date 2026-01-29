@@ -46,4 +46,4 @@
 
 > **Status:** Course Completed ✅
 
-![Image-Certification](../images//CybersecuritySpecCertification.pdf)
+![Image-Certification](../images/CybersecuritySpecCertification.pdf)
