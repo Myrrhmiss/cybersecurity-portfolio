@@ -44,4 +44,6 @@
 - Use Gemini Live for interview practice  
 - Create and edit a thank you email with Gemini  
 
-> **Status:** Course Completed ✅  
+> **Status:** Course Completed ✅
+
+![Image-Certification](../images//CybersecuritySpecCertification.pdf)
